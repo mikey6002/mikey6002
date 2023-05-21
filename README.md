@@ -14,6 +14,5 @@ I am currently a student at Temple University pursuing a BS in Computer Science<
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mikey6002&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikey6002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=mikey6002&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
