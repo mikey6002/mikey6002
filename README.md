@@ -3,7 +3,7 @@
 # 💫 About Me:
 I am currently a student at Temple University pursuing a BS in Computer Science<br>I discovered my passion for computer science in high school, <br>when I joined the robotics club and learned how to program robots. <br>I enjoy the challenge and creativity of coding <br>and building something from scratch.<br>
 
-#Checkout my Website:
+# Checkout my Website:
 https://mikey6002.github.io/WebsitePortfolio/ 
 
 
